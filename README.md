@@ -25,11 +25,7 @@
    ```bash
    pip install -r requirements.txt
    ```
-3. **Run the Flask API**  
-   ```bash
-   python app.py
-   ```
-4. **Run the Streamlit frontend**  
+3. **Run the Streamlit frontend**  
    ```bash
    streamlit run frontend.py
    ```
